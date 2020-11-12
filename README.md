@@ -9,29 +9,6 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 | title|  index |
 |:---|---:| 
 | Outlier-Robust Manifold Pre-Integration for INS/GPS Fusion| 0688 | 
-| Autonomous Steering of Concentric Tube Robots for Enhanced Force/Velocity Manipulability | 0813 | 
-| A 2-piece six-axis force/torque sensor capable of measuring loads applied to tools of complex shapes| 1744 | 
-| Autonomous Hybrid Ground/Aerial Mobility in Unknown Environments| 2028 | 
-| A Hybrid Active/Passive Wrist Approach for Increasing Virtual Fixture Stiffness in Comanipulated Robotic Minimally Invasive Surgery| 2255 | 
-| 6-Axis Hybrid Sensing and Estimation of Tip Forces/Torques on a Hyper-Redundant Robotic Surgical Instrument | 2324 | 
-| Hybrid Force/Motion Control and Implementation of an Aerial Manipulator towards Sustained Contact Operations | 2586 | 
-| XL-laser: Large-Scale Cable-Driven Laser Cutting/Engraving Robot | 2742 | 
-| 2D Contour Following with an Unmanned Aerial Manipulator: Towards Tactile-Based Aerial Navigation | 1391 | 
-| 2-DOF Transformable Wheel Design for Various Sized Stair and Step Climbing | 2643 | 
-| 2-Entity RANSAC for Robust Visual Localization in Changing Environment | 0982 | 
-| 3D Canonical Pose Estimation and Abnormal Gait Recognition with a Single RGB-D Camera | 2323 | 
-| 3D Deformable Object Manipulation Using Deep Neural Networks | 2307 | 
-| 3D LiDAR and Stereo Fusion Using Stereo Matching Network with Conditional Cost Volume Normalization | 1026 | 
-| 3D Micromanipulation of Particle Swarm Using a Hexapole Magnetic Tweezer | 1134 | 
-| 3D Move to See: Multi-Perspective Visual Servoing towards the Next Best View within Unstructured and Occluded Environments | 1719 | 
-| 3-DOF Gravity Compensation Mechanism for Robot Waists with the Variations of Center of Mass | 0992 | 
-| 3-DOF Manipulator Design for a Slender-Shaped Wide End-Effector | 2630 | 
-| 3D Point Cloud Data Acquisition Using a Synchronized In-Air Imaging Sonar Sensor Network | 0969 | 
-| 3D Printed Single Incision Laparoscopic Manipulator System Adapted to the Required Forces in Laparoscopic Surgery | 0964 | 
-| 3D Reconstruction by Single Camera Omnidirectional Multi-Stereo System | 0095 | 
-| 3D Shape Control of Linear Deformable Objects by Robot Manipulator | 2664 | 
-| A 3D Static Modeling Method and Experimental Verification of Continuum Robots Based on Pseudo-Rigid Body Theory | 1362 | 
-| A Behavior Driven Approach for Sampling Rare-Event Situations for Autonomous Vehicles | 0265 | 
 | A Behavior Tree Cognitive Assistant System for Emergency Medical Services | 0449 | 
 | A Benchmark for Visual-Inertial Odometry Systems Employing Onboard Illumination | 1770 | 
 | A Bi-Directional Multiple Timescales LSTM Model for Grounding of Actions and Verbs | 0344 | 
